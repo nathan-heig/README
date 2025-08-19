@@ -5,17 +5,14 @@
 ## 🚀 Compétences
 
 - **Langages de programmation :**
-  - C, C++, Python
+  - C, C++, Python, Java
 - **Outils :**
-  - VSCode, SSH, X11
+  - VSCode, SSH
 - **Systèmes d'exploitation :**
   - macOS, Debian
-- **Hébergement et développement web :**
-  - Création et gestion de sites web (sessions admin et utilisateurs)
 
 ## 💻 Projets
 
-Je travaille actuellement sur plusieurs projets liés à la sécurité informatique et au développement web. Certains de mes travaux incluent la création de sites web sécurisés et l'administration de serveurs.
 
 ## 🔗 Me contacter
 
